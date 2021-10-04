@@ -7,7 +7,7 @@ High-level project summary
 * Create a system that uses control methods for variables such as temperature, amount of O2, CO2, water, and light. Inspired by the Advanced Habitat Plant and the experiences written in the NASA media of astronauts to feed them in space and in a different environment like the planet Mars. Based on a mud structure that allows the absorption of water to keep the plants with permanent access to water. It solves the problem of microgravity since, thanks to the characteristics of the mud, the seeds adhere to it. The magenta light placed on top simulates sunlight that is not available in ships. And it serves as a guide to guide growth 
 
 Link to the final project 
-https://github.com/alucard233/Nasa_app_space
+https://www.youtube.com/watch?v=l3h7-WuBSCc&ab_channel=GabrielOmarPortilloMexquititla
 
 Detailed project description 
 
