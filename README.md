@@ -1,4 +1,4 @@
-# Nasa_app_space
+# Nasa_space_app
 Piezas utilizadas en el prototipo de maceta espacial
 Description
 Title of the project 
